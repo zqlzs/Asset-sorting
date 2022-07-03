@@ -1,0 +1,6 @@
+www.baidu.com
+1.1.1.1
+http://1.1.1.1
+https://2.1.1.1:80
+www.baidu.com:443
+http://1.1.2.1:80/a/baidu
